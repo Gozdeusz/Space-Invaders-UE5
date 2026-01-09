@@ -1,6 +1,6 @@
-# 🚀 SpacerInvadersUE5
+# Space Invaders UE5
 
-**SpacerInvadersUE5** is a simple *Space Invaders–style* game created in **Unreal Engine 5**, focused on demonstrating the use of **shaders and real-time graphic effects**.
+**Space Invaders** is a simple *Space Invaders–style* game created in **Unreal Engine 5**, focused on demonstrating the use of **shaders and real-time graphic effects**.
 
 ---
 
